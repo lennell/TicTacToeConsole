@@ -30,7 +30,7 @@ def clear():
 
 
 # Press the green button in the gutter to run the script.
-print("TicTacToe Enter player names:" + os.name);
+print("TicTacToe Enter player names:" );
 pl1[0] =  input("Player 1: ");
 pl2[0] =  input("Player 2: ");
 currP = pl1
